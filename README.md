@@ -1,3 +1,3 @@
 # IO
 Inżynieria oprogramowania
-To 1 gitowanie
+Jednak to jest drugie gitowanie
